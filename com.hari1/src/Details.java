@@ -5,6 +5,7 @@ public class Details extends Person {
         System.out.println("Name: "+ person.setName());
         System.out.println("Age: "+ person.getAge());
         System.out.println("hari");
+        System.out.println("hero");
 
 
 
