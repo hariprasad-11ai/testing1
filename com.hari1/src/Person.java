@@ -10,7 +10,7 @@ public class Person {
         this.name = name;
 
         public int getAge(int age);
-        return 20;
+        return 30;
 
 
     }
